@@ -1,0 +1,833 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="LRT Televizija" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Televizija.png" tvg-name="LRT Televizija"  group-title="Lietuviška TV",LRT Televizija
+http://streams.iptv.luxe:80/p/591779/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1 tvg-id="LRT PLIUS" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Plius%20HD.png" tvg-name="LRT Plius"  group-title="Lietuviška TV",LRT Plius
+http://streams.iptv.luxe:80/p/591779/c/266/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1 tvg-id="LRT Lituanica" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LRT%20Lituanica.png" tvg-name="LRT Lituanica"  group-title="Lietuviška TV",LRT Lituanica
+http://streams.iptv.luxe:80/s/9703/c/563/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1 tvg-id="tv3-lt" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/TV3.png" tvg-name="TV3"  group-title="Lietuviška TV",TV3
+http://streams.iptv.luxe:80/p/591779/c/198/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1 tvg-id="lnk" tvg-logo="https://raw.githubusercontent.com/Virgis27/tvlogo/master/LNK.png" tvg-name="LNK"  group-title="Lietuviška TV",LNK
+http://streams.iptv.luxe:80/p/591779/c/417/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv6-lt" tvg-logo="Logo N/A" tvg-name="TV6"  group-title="Lietuviška TV",TV6
+http://streams.iptv.luxe:80/p/591779/c/200/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv1-lt" tvg-logo="Logo N/A" tvg-name="TV1"  group-title="Lietuviška TV",TV1
+http://streams.iptv.luxe:80/p/591779/c/24/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="btv" tvg-logo="Logo N/A" tvg-name="BTV"  group-title="Lietuviška TV",BTV
+http://streams.iptv.luxe:80/p/591779/c/390/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="balticum-tv" tvg-logo="Logo N/A" tvg-name="Balticum TV"  group-title="Lietuviška TV",Balticum TV
+http://streams.iptv.luxe:80/p/591779/c/241/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="info-tv" tvg-logo="Logo N/A" tvg-name="Info TV"  group-title="Lietuviška TV",Info TV
+http://streams.iptv.luxe:80/p/591779/c/395/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="lietuvos-ryto-televizija" tvg-logo="Logo N/A" tvg-name="Lietuvos rytas TV"  group-title="Lietuviška TV",Lietuvos rytas TV
+http://streams.iptv.luxe:80/p/591779/c/185/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv8-lt" tvg-logo="Logo N/A" tvg-name="TV8"  group-title="Lietuviška TV",TV8
+http://streams.iptv.luxe:80/p/591779/c/153/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="liuks" tvg-logo="Logo N/A" tvg-name="LIUKS!"  group-title="Lietuviška TV",LIUKS!
+http://streams.iptv.luxe:80/p/591779/c/393/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="init-tv" tvg-logo="Logo N/A" tvg-name="INIT TV"  group-title="Lietuviška TV",INIT TV
+http://streams.iptv.luxe:80/p/591779/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Init Ekstra TV" tvg-logo="Logo N/A" tvg-name="INIT EkstraTV"  group-title="Lietuviška TV",INIT EkstraTV
+http://streams.iptv.luxe:80/p/591779/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TV7" tvg-logo="Logo N/A" tvg-name="TV7"  group-title="Lietuviška TV",TV7
+http://streams.iptv.luxe:80/p/591779/c/355/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Play TV" tvg-logo="Logo N/A" tvg-name="PlayTV"  group-title="Lietuviška TV",PlayTV
+http://streams.iptv.luxe:80/p/591779/c/351/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Pūkas TV" tvg-logo="Logo N/A" tvg-name="Pūkas TV"  group-title="Lietuviška TV",Pūkas TV
+http://streams.iptv.luxe:80/p/591779/c/235/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="GNTV" tvg-logo="Logo N/A" tvg-name="GNTV"  group-title="Lietuviška TV",GNTV
+http://streams.iptv.luxe:80/p/591779/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Dzūkijos TV" tvg-logo="Logo N/A" tvg-name="Dzūkijos TV"  group-title="Lietuviška TV",Dzūkijos TV
+http://iptvlive.stream:80/p/119409/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tavo TV"  group-title="Lietuviška TV",Tavo TV
+http://iptvlive.stream:80/p/179007/c/41/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="STV" tvg-logo="Logo N/A" tvg-name="Šiaulių Televizija"  group-title="Lietuviška TV",Šiaulių Televizija
+http://streams.iptv.luxe:80/p/591779/c/68/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="seimas-tiesiogiai" tvg-logo="Logo N/A" tvg-name="Seimas tiesiogiai"  group-title="Lietuviška TV",Seimas tiesiogiai
+http://streams.iptv.luxe:80/p/591779/c/155/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Žvaigždė" tvg-logo="Logo N/A" tvg-name="Žvaigždė"  group-title="Lietuviška TV",Žvaigždė
+http://streams.iptv.luxe:80/p/591779/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TV1000 Premium" tvg-logo="Logo N/A" tvg-name="TV1000 Premium"  group-title="Filmai",TV1000 Premium
+http://streams.iptv.luxe:80/p/119409/c/258/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TV1000 Premium" tvg-logo="Logo N/A" tvg-name="TV1000 Premium HD"  group-title="Filmai",TV1000 Premium HD
+http://streams.iptv.luxe:80/p/591779/c/365/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="balticum-auksinis" tvg-logo="Logo N/A" tvg-name="Balticum Auksinis"  group-title="Filmai",Balticum Auksinis
+http://streams.iptv.luxe:80/s/9703/c/1164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="balticum-platinum" tvg-logo="Logo N/A" tvg-name="Balticum Platinum HD"  group-title="Filmai",Balticum Platinum HD
+http://streams.iptv.luxe:80/p/591779/c/317/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="filmzone-lt" tvg-logo="Logo N/A" tvg-name="FilmZone"  group-title="Filmai",FilmZone
+http://streams.iptv.luxe:80/p/591779/c/73/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="filmzone-plus-lt" tvg-logo="Logo N/A" tvg-name="FilmZone + HD"  group-title="Filmai",FilmZone + HD
+http://streams.iptv.luxe:80/p/591779/c/381/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Epic Drama" tvg-logo="Logo N/A" tvg-name="Epic Drama HD"  group-title="Filmai",Epic Drama HD
+http://streams.iptv.luxe:80/p/591779/c/252/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TV1000" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Filmai",TV 1000
+http://streams.iptv.luxe:80/p/119409/c/56/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TV1000 Action" tvg-logo="Logo N/A" tvg-name="TV 1000 Action"  group-title="Filmai",TV 1000 Action
+http://streams.iptv.luxe:80/p/119409/c/57/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv1000-worldkino" tvg-logo="Logo N/A" tvg-name="TV 1000 World Kino"  group-title="Filmai",TV 1000 World Kino
+http://streams.iptv.luxe:80/s/13163/c/344/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="vip-premiere" tvg-logo="Logo N/A" tvg-name="ViP Premiere HD"  group-title="Filmai",ViP Premiere HD
+http://iptvlive.stream:80/p/561921/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="vip-comedy" tvg-logo="Logo N/A" tvg-name="ViP Comedy HD"  group-title="Filmai",ViP Comedy HD
+http://iptvlive.stream:80/p/561921/c/63/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Vip Comedy" tvg-logo="Logo N/A" tvg-name="VIP Comedy SD"  group-title="Filmai",VIP Comedy SD
+http://streams.iptv.luxe:80/p/591779/c/25/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="vip-megahit" tvg-logo="Logo N/A" tvg-name="ViP Megahit HD"  group-title="Filmai",ViP Megahit HD
+http://iptvlive.stream:80/p/561921/c/64/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinoxit" tvg-logo="Logo N/A" tvg-name="Кинохит"  group-title="Filmai",Кинохит
+http://iptvlive.stream:80/p/561921/c/102/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinomiks" tvg-logo="Logo N/A" tvg-name="Киномикс"  group-title="Filmai",Киномикс
+http://iptvlive.stream:80/p/561921/c/54/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinokomedia" tvg-logo="Logo N/A" tvg-name="Кинокомедия"  group-title="Filmai",Кинокомедия
+http://iptvlive.stream:80/p/561921/c/131/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinopremiera-hd" tvg-logo="Logo N/A" tvg-name="Кинопремьера HD"  group-title="Filmai",Кинопремьера HD
+http://iptvlive.stream:80/p/561921/c/181/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinosvidanie" tvg-logo="Logo N/A" tvg-name="Киносвидание"  group-title="Filmai",Киносвидание
+http://iptvlive.stream:80/p/561921/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinosemiya" tvg-logo="Logo N/A" tvg-name="Киносемья"  group-title="Filmai",Киносемья
+http://iptvlive.stream:80/p/561921/c/8/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinopremium-hd" tvg-logo="Logo N/A" tvg-name="КиноПремиум HD"  group-title="Filmai",КиноПремиум HD
+http://streams.iptv.luxe:80/s/13163/c/59/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kinoman HD"  group-title="Filmai",Kinoman HD
+http://streams.iptv.luxe:80/p/561323/c/39/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinopokaz-hd1" tvg-logo="Logo N/A" tvg-name="Кинопоказ 1 HD"  group-title="Filmai",Кинопоказ 1 HD
+http://iptvlive.stream:80/s/13163/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinopokaz-hd2" tvg-logo="Logo N/A" tvg-name="Кинопоказ 2 HD"  group-title="Filmai",Кинопоказ 2 HD
+http://iptvlive.stream:80/s/13163/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="hollywood" tvg-logo="Logo N/A" tvg-name="Hollywood"  group-title="Filmai",Hollywood
+http://streams.iptv.luxe:80/p/570039/c/137/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="hollywood-hd" tvg-logo="Logo N/A" tvg-name="Hollywood HD"  group-title="Filmai",Hollywood HD
+http://streams.iptv.luxe:80/p/579554/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="paramount-channel" tvg-logo="Logo N/A" tvg-name="Paramount Channel"  group-title="Filmai",Paramount Channel
+http://streams.iptv.luxe:80/p/570039/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ostrosiuzhetnoe-hd" tvg-logo="Logo N/A" tvg-name="Остросюжетное HD"  group-title="Filmai",Остросюжетное HD
+http://streams.iptv.luxe:80/s/13163/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kino-tv" tvg-logo="Logo N/A" tvg-name="Кино ТВ"  group-title="Filmai",Кино ТВ
+http://streams.iptv.luxe:80/s/13163/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tvxxi" tvg-logo="Logo N/A" tvg-name="TV XXI (TV21)"  group-title="Filmai",TV XXI (TV21)
+http://streams.iptv.luxe:80/p/497159/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kinopokaz" tvg-logo="Logo N/A" tvg-name="Кинопоказ"  group-title="Filmai",Кинопоказ
+http://iptvlive.stream:80/p/561921/c/42/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="filmbox-ru" tvg-logo="Logo N/A" tvg-name="FilmBox"  group-title="Filmai",FilmBox
+http://streams.iptv.luxe:80/s/13163/c/452/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="filmbox-arthouse" tvg-logo="Logo N/A" tvg-name="FilmBox Arthouse"  group-title="Filmai",FilmBox Arthouse
+http://iptvlive.stream:80/p/604318/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Filmbox Baltic" tvg-logo="Logo N/A" tvg-name="Filmbox Baltic"  group-title="Filmai",Filmbox Baltic
+http://streams.iptv.luxe:80/p/531671/c/79/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="nashe-lubimoe" tvg-logo="Logo N/A" tvg-name="Наше любимое кино"  group-title="Filmai",Наше любимое кино
+http://iptvlive.stream:80/p/573542/c/36/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="domkino" tvg-logo="Logo N/A" tvg-name="Дом кино"  group-title="Filmai",Дом кино
+http://iptvlive.stream:80/p/579554/c/128/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="domkino-premium" tvg-logo="Logo N/A" tvg-name="Дом кино Премиум HD"  group-title="Filmai",Дом кино Премиум HD
+http://iptvlive.stream:80/p/579554/c/129/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="kinoseria" tvg-logo="Logo N/A" tvg-name="Киносерия"  group-title="Filmai",Киносерия
+http://iptvlive.stream:80/p/573542/c/117/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="fox" tvg-logo="Logo N/A" tvg-name="Fox"  group-title="Filmai",Fox
+http://iptvlive.stream:80/p/579554/c/115/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="fox" tvg-logo="Logo N/A" tvg-name="Fox HD"  group-title="Filmai",Fox HD
+http://iptvlive.stream:80/p/570039/c/130/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="foxlife" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Filmai",Fox Life
+http://iptvlive.stream:80/p/579554/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="amedia1" tvg-logo="Logo N/A" tvg-name="Amedia 1"  group-title="Filmai",Amedia 1
+http://iptvlive.stream:80/p/579554/c/107/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="amedia2" tvg-logo="Logo N/A" tvg-name="Amedia 2"  group-title="Filmai",Amedia 2
+http://iptvlive.stream:80/p/579554/c/222/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="amedia-hit" tvg-logo="Logo N/A" tvg-name="Amedia Hit"  group-title="Filmai",Amedia Hit
+http://iptvlive.stream:80/p/570039/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="amedia-premium" tvg-logo="Logo N/A" tvg-name="Amedia Premium"  group-title="Filmai",Amedia Premium
+http://iptvlive.stream:80/p/579554/c/106/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="illuzion-plus" tvg-logo="Logo N/A" tvg-name="Иллюзион+"  group-title="Filmai",Иллюзион+
+http://iptvlive.stream:80/p/561921/c/69/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="rodnoe-kino" tvg-logo="Logo N/A" tvg-name="Родное кино"  group-title="Filmai",Родное кино
+http://iptvlive.stream:80/p/579554/c/96/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="evrokino" tvg-logo="Logo N/A" tvg-name="Еврокино"  group-title="Filmai",Еврокино
+http://iptvlive.stream:80/p/570039/c/149/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="sony-turbo" tvg-logo="Logo N/A" tvg-name="Sony Turbo"  group-title="Filmai",Sony Turbo
+http://iptvlive.stream:80/p/579554/c/117/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="enter-film" tvg-logo="Logo N/A" tvg-name="Enter Film"  group-title="Filmai",Enter Film
+http://iptvlive.stream:80/p/483854/c/259/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="sony-tv" tvg-logo="Logo N/A" tvg-name="SET"  group-title="Filmai",SET
+http://iptvlive.stream:80/p/579554/c/116/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="sony-scifi" tvg-logo="Logo N/A" tvg-name="Sony Sci-Fi"  group-title="Filmai",Sony Sci-Fi
+http://iptvlive.stream:80/p/376565/c/240/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="amedia-hit" tvg-logo="Logo N/A" tvg-name="Amedia Hit HD"  group-title="Filmai",Amedia Hit HD
+http://iptvlive.stream:80/p/567053/c/47/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="kino-24" tvg-logo="Logo N/A" tvg-name="Kino 24"  group-title="Filmai",Kino 24
+http://streams.iptv.luxe:80/p/591779/c/376/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv1000-russkoe-kino" tvg-logo="Logo N/A" tvg-name="TV 1000 Русское кино"  group-title="Filmai",TV 1000 Русское кино
+http://iptvlive.stream:80/p/558965/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Viasat Explore" tvg-logo="Logo N/A" tvg-name="Viasat Explore"  group-title="Pažintiniai",Viasat Explore
+http://streams.iptv.luxe:80/p/119409/c/251/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Viasat History" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Pažintiniai",Viasat History
+http://streams.iptv.luxe:80/p/591779/c/99/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="discovery-channel" tvg-logo="Logo N/A" tvg-name="Discovery Channel"  group-title="Pažintiniai",Discovery Channel
+http://streams.iptv.luxe:80/p/591779/c/78/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="discovery-science" tvg-logo="Logo N/A" tvg-name="Discovery Science"  group-title="Pažintiniai",Discovery Science
+http://streams.iptv.luxe:80/p/591779/c/77/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="national-geographic" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Pažintiniai",National Geographic
+http://streams.iptv.luxe:80/p/591779/c/136/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="travel-channel" tvg-logo="Logo N/A" tvg-name="Travel Channel"  group-title="Pažintiniai",Travel Channel
+http://streams.iptv.luxe:80/p/591779/c/105/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="travel-adventure" tvg-logo="Logo N/A" tvg-name="Travel + Adventure"  group-title="Pažintiniai",Travel + Adventure
+http://streams.iptv.luxe:80/p/570039/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="viasat-nature-history-hd" tvg-logo="Logo N/A" tvg-name="Viasat Nature History HD"  group-title="Pažintiniai",Viasat Nature History HD
+http://iptvlive.stream:80/p/601324/c/9/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="history" tvg-logo="Logo N/A" tvg-name="History Channel"  group-title="Pažintiniai",History Channel
+http://streams.iptv.luxe:80/p/591779/c/150/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="docubox-hd" tvg-logo="Logo N/A" tvg-name="DocuBox HD"  group-title="Pažintiniai",DocuBox HD
+http://streams.iptv.luxe:80/p/119409/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="fastfunbox-hd" tvg-logo="Logo N/A" tvg-name="Fast&Fun Box HD"  group-title="Pažintiniai",Fast&Fun Box HD
+http://streams.iptv.luxe:80/p/119410/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="id-xtra-ru" tvg-logo="Logo N/A" tvg-name="Investigation Discovery"  group-title="Pažintiniai",Investigation Discovery
+http://streams.iptv.luxe:80/p/584333/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="rtg" tvg-logo="Logo N/A" tvg-name="RTG TV"  group-title="Pažintiniai",RTG TV
+http://streams.iptv.luxe:80/p/591779/c/229/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="rtg-int" tvg-logo="Logo N/A" tvg-name="RTG int"  group-title="Pažintiniai",RTG int
+http://iptvlive.stream:80/p/119409/c/216/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="cbs-reality" tvg-logo="Logo N/A" tvg-name="CBS Reality"  group-title="Pažintiniai",CBS Reality
+http://streams.iptv.luxe:80/p/591779/c/308/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="dtx" tvg-logo="Logo N/A" tvg-name="DTX HD"  group-title="Pažintiniai",DTX HD
+http://streams.iptv.luxe:80/p/591779/c/209/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="viasat-nature" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Pažintiniai",Viasat Nature
+http://streams.iptv.luxe:80/p/591779/c/125/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="animal-planet" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Pažintiniai",Animal Planet
+http://streams.iptv.luxe:80/p/591779/c/75/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="nat-geo-wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild"  group-title="Pažintiniai",Nat Geo Wild
+http://streams.iptv.luxe:80/p/591779/c/257/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tlc" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="Pažintiniai",TLC
+http://iptvlive.stream:80/p/579554/c/53/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="da-vinci" tvg-logo="Logo N/A" tvg-name="Da Vinci Learning"  group-title="Pažintiniai",Da Vinci Learning
+http://iptvlive.stream:80/p/573542/c/165/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="discovery-hd-showcase" tvg-logo="Logo N/A" tvg-name="Discovery Showcase HD"  group-title="Pažintiniai",Discovery Showcase HD
+http://streams.iptv.luxe:80/p/591779/c/287/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="teleputeshestvia" tvg-logo="Logo N/A" tvg-name="Телепутешествия"  group-title="Pažintiniai",Телепутешествия
+http://iptvlive.stream:80/p/573542/c/33/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="usadba" tvg-logo="Logo N/A" tvg-name="Усадьба ТВ"  group-title="Pažintiniai",Усадьба ТВ
+http://iptvlive.stream:80/p/573542/c/110/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="fine-living" tvg-logo="Logo N/A" tvg-name="Fine Living"  group-title="Pažintiniai",Fine Living
+http://iptvlive.stream:80/p/570039/c/52/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="bolshaya-azia" tvg-logo="Logo N/A" tvg-name="Большая Азия"  group-title="Pažintiniai",Большая Азия
+http://iptvlive.stream:80/p/578976/c/182/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TVPlay Sports" tvg-logo="Logo N/A" tvg-name="TVPlay Sports"  group-title="Sportas",TVPlay Sports
+http://streams.iptv.luxe:80/p/119409/c/256/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TVPlay Sports" tvg-logo="Logo N/A" tvg-name="TVPlay Sports HD"  group-title="Sportas",TVPlay Sports HD
+http://streams.iptv.luxe:80/p/591779/c/146/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TVPlay Sports Plius +" tvg-logo="Logo N/A" tvg-name="TVPlay Sports+"  group-title="Sportas",TVPlay Sports+
+http://streams.iptv.luxe:80/p/591779/c/405/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="TVPlay Sports Plius +" tvg-logo="Logo N/A" tvg-name="TVPlay Sports+ HD"  group-title="Sportas",TVPlay Sports+ HD
+http://streams.iptv.luxe:80/p/591779/c/35/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="sport1-lt" tvg-logo="Logo N/A" tvg-name="Sport 1"  group-title="Sportas",Sport 1
+http://streams.iptv.luxe:80/p/119409/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="sport1-lt" tvg-logo="Logo N/A" tvg-name="Sport 1 HD"  group-title="Sportas",Sport 1 HD
+http://streams.iptv.luxe:80/p/591779/c/128/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="viasat-sport" tvg-logo="Logo N/A" tvg-name="Viasat Sport"  group-title="Sportas",Viasat Sport
+http://iptvlive.stream:80/p/119409/c/255/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="viasat-sport" tvg-logo="Logo N/A" tvg-name="Viasat Sport HD"  group-title="Sportas",Viasat Sport HD
+http://iptvlive.stream:80/p/119409/c/257/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="eurosport1" tvg-logo="Logo N/A" tvg-name="Eurosport 1"  group-title="Sportas",Eurosport 1
+http://iptvlive.stream:80/p/119409/c/133/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="eurosport2" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sportas",Eurosport 2
+http://iptvlive.stream:80/p/119409/c/22/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="eurosport1" tvg-logo="Logo N/A" tvg-name="Eurosport 1 HD"  group-title="Sportas",Eurosport 1 HD
+http://iptvlive.stream:80/p/119409/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="eurosport2" tvg-logo="Logo N/A" tvg-name="Eurosport 2 HD"  group-title="Sportas",Eurosport 2 HD
+http://iptvlive.stream:80/p/119409/c/134/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="extreme-sports" tvg-logo="Logo N/A" tvg-name="Extreme Sports"  group-title="Sportas",Extreme Sports
+http://iptvlive.stream:80/p/119409/c/23/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="setanta-sports" tvg-logo="Logo N/A" tvg-name="Setanta Sports HD"  group-title="Sportas",Setanta Sports HD
+http://streams.iptv.luxe:80/p/591779/c/127/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="match-tv" tvg-logo="Logo N/A" tvg-name="Матч ТВ HD"  group-title="Sportas",Матч ТВ HD
+http://iptvlive.stream:80/p/602876/c/42/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-arena" tvg-logo="Logo N/A" tvg-name="Матч! Арена HD"  group-title="Sportas",Матч! Арена HD
+http://iptvlive.stream:80/p/602876/c/43/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-igra" tvg-logo="Logo N/A" tvg-name="Матч! Игра HD"  group-title="Sportas",Матч! Игра HD
+http://iptvlive.stream:80/p/602876/c/44/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-football1" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 1 HD"  group-title="Sportas",Матч! Футбол 1 HD
+http://iptvlive.stream:80/p/602876/c/45/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-football2" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 2 HD"  group-title="Sportas",Матч! Футбол 2 HD
+http://iptvlive.stream:80/p/602876/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-football3" tvg-logo="Logo N/A" tvg-name="Матч! Футбол 3 HD"  group-title="Sportas",Матч! Футбол 3 HD
+http://iptvlive.stream:80/p/602876/c/47/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-premier" tvg-logo="Logo N/A" tvg-name="Матч! премьер HD"  group-title="Sportas",Матч! премьер HD
+http://iptvlive.stream:80/p/602876/c/48/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="match-nash-sport" tvg-logo="Logo N/A" tvg-name="МАТЧ! Страна"  group-title="Sportas",МАТЧ! Страна
+http://iptvlive.stream:80/p/119409/c/177/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="nba-tv" tvg-logo="Logo N/A" tvg-name="NBA TV HD"  group-title="Sportas",NBA TV HD
+http://iptvlive.stream:80/p/595126/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sony ESPN HD"  group-title="Sportas",Sony ESPN HD
+http://iptvlive.stream:80/p/527155/c/10/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="BT Sport 1" tvg-logo="Logo N/A" tvg-name="BT Sport 1 HD"  group-title="Sportas",BT Sport 1 HD
+http://iptvlive.stream:80/p/543887/c/22/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="BT Sport 2" tvg-logo="Logo N/A" tvg-name="BT Sport 2 HD"  group-title="Sportas",BT Sport 2 HD
+http://iptvlive.stream:80/p/543887/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="BT Sport Europe" tvg-logo="Logo N/A" tvg-name="BT Sport 3 HD"  group-title="Sportas",BT Sport 3 HD
+http://iptvlive.stream:80/p/618688/c/165/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Sky Sports 1" tvg-logo="Logo N/A" tvg-name="Sky Sports Main Event HD"  group-title="Sportas",Sky Sports Main Event HD
+http://iptvlive.stream:80/p/579606/c/27/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Sky Sports 2" tvg-logo="Logo N/A" tvg-name="Sky Sports Cricket HD"  group-title="Sportas",Sky Sports Cricket HD
+http://iptvlive.stream:80/p/579606/c/28/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Sky Sports 5" tvg-logo="Logo N/A" tvg-name="Sky Sports Premier League HD"  group-title="Sportas",Sky Sports Premier League HD
+http://iptvlive.stream:80/p/579606/c/29/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Sky Sports 4" tvg-logo="Logo N/A" tvg-name="Sky Sports Mix HD"  group-title="Sportas",Sky Sports Mix HD
+http://iptvlive.stream:80/p/579606/c/30/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Sky Sports F1" tvg-logo="Logo N/A" tvg-name="Sky Sports F1 HD"  group-title="Sportas",Sky Sports F1 HD
+http://iptvlive.stream:80/p/517146/c/72/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sports Football HD"  group-title="Sportas",Sky Sports Football HD
+http://iptvlive.stream:80/p/594096/c/6/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SKY Sports Arena HD"  group-title="Sportas",SKY Sports Arena HD
+http://iptvlive.stream:80/p/594096/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="RMC Sport 1" tvg-logo="Logo N/A" tvg-name="RMC Sport 1 HD"  group-title="Sportas",RMC Sport 1 HD
+http://iptvlive.stream:80/p/596023/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="RMC Sport 2" tvg-logo="Logo N/A" tvg-name="RMC Sport 2 HD"  group-title="Sportas",RMC Sport 2 HD
+http://iptvlive.stream:80/p/596021/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="RMC Sport 3" tvg-logo="Logo N/A" tvg-name="RMC Sport 3 HD"  group-title="Sportas",RMC Sport 3 HD
+http://iptvlive.stream:80/p/596021/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="RMC Sport 4" tvg-logo="Logo N/A" tvg-name="RMC Sport 4 HD"  group-title="Sportas",RMC Sport 4 HD
+http://iptvlive.stream:80/p/596021/c/3/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ESPN News" tvg-logo="Logo N/A" tvg-name="ESPN News HD"  group-title="Sportas",ESPN News HD
+http://iptvlive.stream:80/s/13163/c/1641/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="ESPN" tvg-logo="Logo N/A" tvg-name="ESPN 1 HD"  group-title="Sportas",ESPN 1 HD
+http://iptvlive.stream:80/s/13163/c/1044/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="ESPN2" tvg-logo="Logo N/A" tvg-name="ESPN 2 HD"  group-title="Sportas",ESPN 2 HD
+http://iptvlive.stream:80/s/13163/c/1045/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ESPN 3 HD"  group-title="Sportas",ESPN 3 HD
+http://iptvlive.stream:80/s/13163/c/1640/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews"  group-title="Žinios",Euronews
+http://streams.iptv.luxe:80/p/119409/c/20/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN International"  group-title="Žinios",CNN International
+http://streams.iptv.luxe:80/p/591779/c/109/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="bbc" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="Žinios",BBC World News
+http://streams.iptv.luxe:80/p/591779/c/331/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Sky News" tvg-logo="Logo N/A" tvg-name="Sky News"  group-title="Žinios",Sky News
+http://streams.iptv.luxe:80/p/591779/c/151/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Al Jazeera Eng" tvg-logo="Logo N/A" tvg-name="Al Jazeera English"  group-title="Žinios",Al Jazeera English
+http://streams.iptv.luxe:80/p/591779/c/90/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="3-plus-latvia" tvg-logo="Logo N/A" tvg-name="TV3+ Latvia"  group-title="Pramoginiai",TV3+ Latvia
+http://streams.iptv.luxe:80/p/547623/c/1/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="sony-turbo-baltic" tvg-logo="Logo N/A" tvg-name="Sony Turbo Baltic"  group-title="Pramoginiai",Sony Turbo Baltic
+http://streams.iptv.luxe:80/p/591779/c/138/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Sony Channel" tvg-logo="Logo N/A" tvg-name="Sony Channel Lithuania"  group-title="Pramoginiai",Sony Channel Lithuania
+http://streams.iptv.luxe:80/p/591779/c/137/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="THT Comedy"  group-title="Pramoginiai",THT Comedy
+http://streams.iptv.luxe:80/p/591779/c/418/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tnt" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Pramoginiai",ТНТ
+http://streams.iptv.luxe:80/s/13163/c/211/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tnt4" tvg-logo="Logo N/A" tvg-name="ТНТ4"  group-title="Pramoginiai",ТНТ4
+|http://streams.iptv.luxe:80/p/119410/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="paramount-comedy" tvg-logo="Logo N/A" tvg-name="Paramount Comedy"  group-title="Pramoginiai",Paramount Comedy
+http://iptvlive.stream:80/p/550713/c/124/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="paramount-comedy" tvg-logo="Logo N/A" tvg-name="Paramount Comedy HD"  group-title="Pramoginiai",Paramount Comedy HD
+http://iptvlive.stream:80/p/561921/c/99/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="sts-love" tvg-logo="Logo N/A" tvg-name="СТС Love"  group-title="Pramoginiai",СТС Love
+http://iptvlive.stream:80/p/561921/c/203/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="ntv-style" tvg-logo="Logo N/A" tvg-name="НТВ Стиль"  group-title="Pramoginiai",НТВ Стиль
+http://iptvlive.stream:80/p/119409/c/270/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="super" tvg-logo="Logo N/A" tvg-name="Супер"  group-title="Pramoginiai",Супер
+http://iptvlive.stream:80/p/607338/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="sarafan" tvg-logo="Logo N/A" tvg-name="Сарафан"  group-title="Pramoginiai",Сарафан
+http://iptvlive.stream:80/p/596559/c/127/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="kuxnia-tv" tvg-logo="Logo N/A" tvg-name="Кухня ТВ"  group-title="Pramoginiai",Кухня ТВ
+http://iptvlive.stream:80/p/607338/c/26/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="eda" tvg-logo="Logo N/A" tvg-name="Еда"  group-title="Pramoginiai",Еда
+http://iptvlive.stream:80/p/604318/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="eda-hd" tvg-logo="Logo N/A" tvg-name="Еда HD"  group-title="Pramoginiai",Еда HD
+http://iptvlive.stream:80/p/605155/c/31/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="telekafe" tvg-logo="Logo N/A" tvg-name="ТелеКафе"  group-title="Pramoginiai",ТелеКафе
+http://iptvlive.stream:80/p/594990/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HD Media"  group-title="Pramoginiai",HD Media
+http://iptvlive.stream:80/p/602876/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="VH1 European" tvg-logo="Logo N/A" tvg-name="VH1 European"  group-title="Muzika",VH1 European
+http://streams.iptv.luxe:80/p/591779/c/267/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="vh1-classic" tvg-logo="Logo N/A" tvg-name="VH1 Classic"  group-title="Muzika",VH1 Classic
+http://streams.iptv.luxe:80/p/591779/c/247/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="MTV" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Muzika",MTV
+http://iptvlive.stream:80/p/119409/c/40/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mtv-europe" tvg-logo="Logo N/A" tvg-name="MTV Europe"  group-title="Muzika",MTV Europe
+http://streams.iptv.luxe:80/p/591779/c/98/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mtv-hits" tvg-logo="Logo N/A" tvg-name="MTV Hits"  group-title="Muzika",MTV Hits
+http://streams.iptv.luxe:80/p/591779/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mtv-live-hd" tvg-logo="Logo N/A" tvg-name="MTV Live HD"  group-title="Muzika",MTV Live HD
+http://streams.iptv.luxe:80/p/591779/c/248/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="MTV Dance" tvg-logo="Logo N/A" tvg-name="MTV Dance"  group-title="Muzika",MTV Dance
+http://streams.iptv.luxe:80/p/591779/c/246/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mtv-rocks" tvg-logo="Logo N/A" tvg-name="MTV Rocks"  group-title="Muzika",MTV Rocks
+http://streams.iptv.luxe:80/p/591779/c/245/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mtv-russia" tvg-logo="Logo N/A" tvg-name="MTV Россия"  group-title="Muzika",MTV Россия
+http://iptvlive.stream:80/p/548844/c/172/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="musicbox-ua-hd" tvg-logo="Logo N/A" tvg-name="Music Box UA"  group-title="Muzika",Music Box UA
+http://iptvlive.stream:80/p/570039/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ru-tv" tvg-logo="Logo N/A" tvg-name="RU TV"  group-title="Muzika",RU TV
+http://iptvlive.stream:80/p/580844/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="musicbox" tvg-logo="Logo N/A" tvg-name="Music Box RU"  group-title="Muzika",Music Box RU
+http://iptvlive.stream:80/p/580844/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="musicbox-ua-hd" tvg-logo="Logo N/A" tvg-name="1 HD"  group-title="Muzika",1 HD
+http://iptvlive.stream:80/p/119409/c/89/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="musicbox-ua-hd" tvg-logo="Logo N/A" tvg-name="Europa Plus TV"  group-title="Muzika",Europa Plus TV
+http://iptvlive.stream:80/p/119409/c/132/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="musicbox-ua-hd" tvg-logo="Logo N/A" tvg-name="Bridge HD"  group-title="Muzika",Bridge HD
+http://iptvlive.stream:80/p/119409/c/112/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Музыка Первого"  group-title="Muzika",Музыка Первого
+http://iptvlive.stream:80/p/589904/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="muztv" tvg-logo="Logo N/A" tvg-name="Муз ТВ"  group-title="Muzika",Муз ТВ
+http://iptvlive.stream:80/p/589554/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="bridge-tv-classic" tvg-logo="Logo N/A" tvg-name="BRIDGE TV CLASSIC"  group-title="Muzika",BRIDGE TV CLASSIC
+http://iptvlive.stream:80/p/589532/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="bridge-tv-dance" tvg-logo="Logo N/A" tvg-name="Bridge TV Dance"  group-title="Muzika",Bridge TV Dance
+http://iptvlive.stream:80/p/589532/c/22/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="bridge-tv" tvg-logo="Logo N/A" tvg-name="Bridge TV"  group-title="Muzika",Bridge TV
+http://iptvlive.stream:80/p/589904/c/60/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="mcm-top" tvg-logo="Logo N/A" tvg-name="MCM Top"  group-title="Muzika",MCM Top
+http://iptvlive.stream:80/p/570039/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="mcm-top" tvg-logo="Logo N/A" tvg-name="MCM Top HD"  group-title="Muzika",MCM Top HD
+http://iptvlive.stream:80/p/119409/c/178/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="m1-ua" tvg-logo="Logo N/A" tvg-name="М1"  group-title="Muzika",М1
+http://iptvlive.stream:80/p/579554/c/164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="m2-ua" tvg-logo="Logo N/A" tvg-name="М2"  group-title="Muzika",М2
+http://iptvlive.stream:80/p/429735/c/389/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cartoon Network"  group-title="Vaikams",Cartoon Network
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pingviniukas"  group-title="Vaikams",Pingviniukas
+http://streams.iptv.luxe:80/p/591779/c/38/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kidzone"  group-title="Vaikams",Kidzone
+http://streams.iptv.luxe:80/p/591779/c/126/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel"  group-title="Vaikams",Disney Channel
+http://streams.iptv.luxe:80/p/591779/c/143/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior"  group-title="Vaikams",Disney Junior
+http://streams.iptv.luxe:80/p/591779/c/145/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney XD"  group-title="Vaikams",Disney XD
+http://streams.iptv.luxe:80/p/591779/c/144/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duck TV"  group-title="Vaikams",Duck TV
+http://streams.iptv.luxe:80/p/591779/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JimJam"  group-title="Vaikams",JimJam
+http://streams.iptv.luxe:80/p/591779/c/194/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Karusel"  group-title="Vaikams",Karusel
+http://streams.iptv.luxe:80/p/591779/c/47/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LoLo LT"  group-title="Vaikams",LoLo LT
+http://streams.iptv.luxe:80/p/591779/c/375/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Multimania"  group-title="Vaikams",Multimania
+http://streams.iptv.luxe:80/p/591779/c/40/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nick Jr"  group-title="Vaikams",Nick Jr
+http://streams.iptv.luxe:80/p/591779/c/141/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NickToons"  group-title="Vaikams",NickToons
+http://streams.iptv.luxe:80/p/591779/c/142/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Vaikams",Nickelodeon
+http://streams.iptv.luxe:80/p/591779/c/140/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TiJi"  group-title="Vaikams",TiJi
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gulli Girl"  group-title="Vaikams",Gulli Girl
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ani"  group-title="Vaikams",Ani
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Мульт"  group-title="Vaikams",Мульт
+Unsorted
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lale"  group-title="Vaikams",Lale
+Unsorted
+
+#EXTINF:-1, tvg-id="LRT Televizija" tvg-logo="Logo N/A" tvg-name="LRT Televizija HD"  group-title="Lietuviška TV HD",LRT Televizija HD
+http://streams.iptv.luxe:80/p/591779/c/19/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="LRT PLIUS" tvg-logo="Logo N/A" tvg-name="LRT Plius HD"  group-title="Lietuviška TV HD",LRT Plius HD
+http://streams.iptv.luxe:80/p/119409/c/268/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv3-lt" tvg-logo="Logo N/A" tvg-name="TV3 HD"  group-title="Lietuviška TV HD",TV3 HD
+http://streams.iptv.luxe:80/s/9703/c/887/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="lnk" tvg-logo="Logo N/A" tvg-name="LNK HD"  group-title="Lietuviška TV HD",LNK HD
+http://streams.iptv.luxe:80/s/9703/c/1741/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv6-lt" tvg-logo="Logo N/A" tvg-name="TV6 HD"  group-title="Lietuviška TV HD",TV6 HD
+http://streams.iptv.luxe:80/s/9703/c/888/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv1-lt" tvg-logo="Logo N/A" tvg-name="TV1 HD"  group-title="Lietuviška TV HD",TV1 HD
+http://streams.iptv.luxe:80/s/9703/c/1379/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="btv" tvg-logo="Logo N/A" tvg-name="BTV HD"  group-title="Lietuviška TV HD",BTV HD
+http://streams.iptv.luxe:80/s/9703/c/1740/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="info-tv" tvg-logo="Logo N/A" tvg-name="Info TV HD"  group-title="Lietuviška TV HD",Info TV HD
+http://streams.iptv.luxe:80/p/591779/c/57/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tv8-lt" tvg-logo="Logo N/A" tvg-name="TV8 HD"  group-title="Lietuviška TV HD",TV8 HD
+http://streams.iptv.luxe:80/s/9703/c/1742/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="lietuvos-ryto-televizija" tvg-logo="Logo N/A" tvg-name="Lietuvos Rytas TV HD"  group-title="Lietuviška TV HD",Lietuvos Rytas TV HD
+http://streams.iptv.luxe:80/p/591779/c/65/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="Viasat Explore" tvg-logo="Logo N/A" tvg-name="Viasat Explore HD"  group-title="Pažintiniai HD",Viasat Explore HD
+http://iptvlive.stream:80/p/547623/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="Viasat History" tvg-logo="Logo N/A" tvg-name="Viasat History HD"  group-title="Pažintiniai HD",Viasat History HD
+http://iptvlive.stream:80/p/570039/c/131/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="discovery-channel" tvg-logo="Logo N/A" tvg-name="Discovery Channel HD"  group-title="Pažintiniai HD",Discovery Channel HD
+http://iptvlive.stream:80/p/579554/c/48/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="discovery-science" tvg-logo="Logo N/A" tvg-name="Discovery Science HD"  group-title="Pažintiniai HD",Discovery Science HD
+http://iptvlive.stream:80/p/579554/c/49/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="discovery-hd-showcase" tvg-logo="Logo N/A" tvg-name="Discovery Showcase HD"  group-title="Pažintiniai HD",Discovery Showcase HD
+http://streams.iptv.luxe:80/p/591779/c/287/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tlc" tvg-logo="Logo N/A" tvg-name="Discovery TLC HD"  group-title="Pažintiniai HD",Discovery TLC HD
+http://iptvlive.stream:80/p/578976/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="national-geographic" tvg-logo="Logo N/A" tvg-name="National Geographic HD"  group-title="Pažintiniai HD",National Geographic HD
+http://iptvlive.stream:80/p/561921/c/44/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="travel-channel" tvg-logo="Logo N/A" tvg-name="Travel Channel HD"  group-title="Pažintiniai HD",Travel Channel HD
+http://iptvlive.stream:80/p/552144/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="travel-adventure" tvg-logo="Logo N/A" tvg-name="Travel + Adventure HD"  group-title="Pažintiniai HD",Travel + Adventure HD
+http://iptvlive.stream:80/p/578976/c/121/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="viasat-nature-history-hd" tvg-logo="Logo N/A" tvg-name="Viasat Nature History HD"  group-title="Pažintiniai HD",Viasat Nature History HD
+http://streams.iptv.luxe:80/p/592755/c/229/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="history" tvg-logo="Logo N/A" tvg-name="History Channel HD"  group-title="Pažintiniai HD",History Channel HD
+http://iptvlive.stream:80/p/579554/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="h2" tvg-logo="Logo N/A" tvg-name="History 2 HD"  group-title="Pažintiniai HD",History 2 HD
+http://iptvlive.stream:80/p/579554/c/150/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="docubox-hd" tvg-logo="Logo N/A" tvg-name="DocuBox HD"  group-title="Pažintiniai HD",DocuBox HD
+http://streams.iptv.luxe:80/p/119409/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="fastfunbox-hd" tvg-logo="Logo N/A" tvg-name="Fast&Fun Box HD"  group-title="Pažintiniai HD",Fast&Fun Box HD
+http://iptvlive.stream:80/p/548342/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="id-xtra-ru" tvg-logo="Logo N/A" tvg-name="Investigation Discovery"  group-title="Pažintiniai HD",Investigation Discovery
+http://streams.iptv.luxe:80/p/584333/c/66/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="viasat-nature" tvg-logo="Logo N/A" tvg-name="Viasat Nature HD"  group-title="Pažintiniai HD",Viasat Nature HD
+http://iptvlive.stream:80/p/541109/c/123/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="animal-planet" tvg-logo="Logo N/A" tvg-name="Animal Planet HD"  group-title="Pažintiniai HD",Animal Planet HD
+http://iptvlive.stream:80/p/578976/c/115/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="nat-geo-wild" tvg-logo="Logo N/A" tvg-name="Nat Geo Wild HD"  group-title="Pažintiniai HD",Nat Geo Wild HD
+http://iptvlive.stream:80/p/579554/c/61/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="v-mire-zhivotnyx-hd" tvg-logo="Logo N/A" tvg-name="В мире животных HD"  group-title="Pažintiniai HD",В мире животных HD
+http://iptvlive.stream:80/p/573542/c/100/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="hd-life" tvg-logo="Logo N/A" tvg-name="HD Life"  group-title="Pažintiniai HD",HD Life
+http://iptvlive.stream:80/p/573542/c/265/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="planeta-hd" tvg-logo="Logo N/A" tvg-name="Планета HD"  group-title="Pažintiniai HD",Планета HD
+http://iptvlive.stream:80/p/579554/c/54/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="rtg" tvg-logo="Logo N/A" tvg-name="RTG HD"  group-title="Pažintiniai HD",RTG HD
+http://iptvlive.stream:80/p/578976/c/122/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tlc" tvg-logo="Logo N/A" tvg-name="TLC HD"  group-title="Pažintiniai HD",TLC HD
+http://iptvlive.stream:80/p/578976/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="pervy" tvg-logo="Logo N/A" tvg-name="Первый"  group-title="Rusiška TV",Первый
+http://iptvlive.stream:80/p/521347/c/7/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="pervy" tvg-logo="Logo N/A" tvg-name="Первый HD"  group-title="Rusiška TV",Первый HD
+http://iptvlive.stream:80/p/621232/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="rossia1" tvg-logo="Logo N/A" tvg-name="Россия 1"  group-title="Rusiška TV",Россия 1
+http://iptvlive.stream:80/p/620107/c/2/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="rossia1" tvg-logo="Logo N/A" tvg-name="Россия 1 HD"  group-title="Rusiška TV",Россия 1 HD
+http://iptvlive.stream:80/p/621232/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="rossia-24" tvg-logo="Logo N/A" tvg-name="Россия 24"  group-title="Rusiška TV",Россия 24
+http://iptvlive.stream:80/p/613502/c/4/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mir" tvg-logo="Logo N/A" tvg-name="Мир"  group-title="Rusiška TV",Мир
+http://iptvlive.stream:80/p/633865/c/155/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mir" tvg-logo="Logo N/A" tvg-name="Мир HD"  group-title="Rusiška TV",Мир HD
+http://iptvlive.stream:80/p/633865/c/157/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mir-24" tvg-logo="Logo N/A" tvg-name="Мир 24"  group-title="Rusiška TV",Мир 24
+http://iptvlive.stream:80/p/633865/c/156/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="mir-24" tvg-logo="Logo N/A" tvg-name="Мир 24 HD"  group-title="Rusiška TV",Мир 24 HD
+http://iptvlive.stream:80/p/602876/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="mir-premium" tvg-logo="Logo N/A" tvg-name="Мир Premium HD"  group-title="Rusiška TV",Мир Premium HD
+http://iptvlive.stream:80/p/607338/c/21/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ntv" tvg-logo="Logo N/A" tvg-name="НТВ"  group-title="Rusiška TV",НТВ
+http://iptvlive.stream:80/p/618688/c/98/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ntv" tvg-logo="Logo N/A" tvg-name="НТВ HD"  group-title="Rusiška TV",НТВ HD
+http://iptvlive.stream:80/p/602876/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="tv3-ru" tvg-logo="Logo N/A" tvg-name="ТВ3"  group-title="Rusiška TV",ТВ3
+http://iptvlive.stream:80/p/618686/c/173/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="tvcentr" tvg-logo="Logo N/A" tvg-name="ТВЦ"  group-title="Rusiška TV",ТВЦ
+http://iptvlive.stream:80/p/618688/c/153/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="sts" tvg-logo="Logo N/A" tvg-name="СТС"  group-title="Rusiška TV",СТС
+http://iptvlive.stream:80/p/618688/c/18/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="tnt" tvg-logo="Logo N/A" tvg-name="ТНТ"  group-title="Rusiška TV",ТНТ
+http://iptvlive.stream:80/p/633865/c/12/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="tnt4" tvg-logo="Logo N/A" tvg-name="ТНТ4"  group-title="Rusiška TV",ТНТ4
+http://iptvlive.stream:80/p/633865/c/13/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="rentv" tvg-logo="Logo N/A" tvg-name="Рен ТВ"  group-title="Rusiška TV",Рен ТВ
+http://iptvlive.stream:80/p/618688/c/109/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="5kanal-ru" tvg-logo="Logo N/A" tvg-name="Пятый канал"  group-title="Rusiška TV",Пятый канал
+http://iptvlive.stream:80/p/602876/c/216/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="8kanal-ru" tvg-logo="Logo N/A" tvg-name="8 канал"  group-title="Rusiška TV",8 канал
+http://iptvlive.stream:80/p/602876/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="domashny" tvg-logo="Logo N/A" tvg-name="Домашний"  group-title="Rusiška TV",Домашний
+http://iptvlive.stream:80/p/618417/c/16/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="piatnica" tvg-logo="Logo N/A" tvg-name="Пятница"  group-title="Rusiška TV",Пятница
+http://iptvlive.stream:80/p/633865/c/51/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="moskva-24" tvg-logo="Logo N/A" tvg-name="Москва 24"  group-title="Rusiška TV",Москва 24
+http://iptvlive.stream:80/p/602876/c/92/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="kaleydoskop-tv" tvg-logo="Logo N/A" tvg-name="Калейдоскоп ТВ"  group-title="Rusiška TV",Калейдоскоп ТВ
+http://iptvlive.stream:80/p/607338/c/46/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="che" tvg-logo="Logo N/A" tvg-name="Че!"  group-title="Rusiška TV",Че!
+http://iptvlive.stream:80/p/602876/c/67/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="zvezda" tvg-logo="Logo N/A" tvg-name="Звезда"  group-title="Rusiška TV",Звезда
+http://iptvlive.stream:80/p/633865/c/50/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="otr" tvg-logo="Logo N/A" tvg-name="ОТР"  group-title="Rusiška TV",ОТР
+http://iptvlive.stream:80/p/602876/c/164/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="tvoy-dom" tvg-logo="Logo N/A" tvg-name="Твой Дом HD"  group-title="Rusiška TV",Твой Дом HD
+http://iptvlive.stream:80/p/589554/c/114/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
+
+#EXTINF:-1, tvg-id="muzhskoy" tvg-logo="Logo N/A" tvg-name="Мужской"  group-title="Rusiška TV",Мужской
+http://iptvlive.stream:80/p/602876/c/191/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="78kanal" tvg-logo="Logo N/A" tvg-name="78"  group-title="Rusiška TV",78
+http://iptvlive.stream:80/p/602876/c/5/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="47 канал"  group-title="Rusiška TV",47 канал
+http://iptvlive.stream:80/p/602876/c/87/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
+#EXTINF:-1, tvg-id="ocean-tv" tvg-logo="Logo N/A" tvg-name="Ocean TV"  group-title="Rusiška TV",Ocean TV
+http://iptvlive.stream:80/p/602876/c/154/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD.m3u8
+
