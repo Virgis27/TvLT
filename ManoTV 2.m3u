@@ -1,5 +1,6 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Povilas1/Skynet-IPTV-With-EPG/master/guide.xml"
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id="LRT Televizija",LRT Televizija
 http://streams.iptv.luxe:80/p/591779/c/58/u/177805/MC5bgbfuFCpfX9x1fPBwbtQQ6HgeDD
 #EXTINF:-1 tvg-id="LRT PLIUS",LRT Plius
